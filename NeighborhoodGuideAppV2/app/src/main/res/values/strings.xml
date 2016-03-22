@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Search for bars in Berkeley</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="results_label">Search Results:</string>
+    <string name="detail_title">Name of Bar Goes Here</string>
+    <string name="missouri_lounge_desc">DJs spin a variety of tunes, from funk to garage rock, in this unassuming hangout with a patio.</string>
+    <string name="jupiter_desc"><![CDATA[A 2-story venue & beer garden that serves up wood-fired pizzas plus handcrafted beers & ales.]]></string>
+    <string name="nicks_lounge_desc"><![CDATA[Relaxed, unpretentious bar for local brews, nightly karaoke, live music & open-mike events.]]></string>
+    <string name="hoi_polloi_desc"><![CDATA[Guests enjoy housemade brews & small American bites amid an industrial-chic setting.]]></string>
+    <string name="graduate_desc"><![CDATA[Bustling watering hole with a neon marquee draws a diverse crowd for drink discounts & free popcorn.]]></string>
+    <string name="moxy_desc"><![CDATA[An extensive list of draft beer & pub grub served in a funky spot with rustic wood tables & patio.]]></string>
+    <string name="pappys_desc"><![CDATA[Lively sports bar with several TVs & a large projection screen, plus burgers, BBQ food & sandwiches.]]></string>
+    <string name="beta_lounge_desc"><![CDATA[Dimly lit lounge & happy-hour fave serves rotating craft beers, specialty cocktails & light bites.]]></string>
+    <string name="missouri_lounge_address">2600 San Pablo Ave</string>
+    <string name="jupiter_address">2181 Shattuck Ave</string>
+    <string name="nicks_lounge_address">3218 Adeline St</string>
+    <string name="hoi_polloi_address">1763 Alcatraz Ave</string>
+    <string name="graduate_address">6202 Claremont Ave</string>
+    <string name="moxy_address">3136 Sacramento St</string>
+    <string name="pappys_grill_address">3136 Sacramento St</string>
+    <string name="beta_lounge_address">2129 Durant Ave</string>
+
+</resources>
