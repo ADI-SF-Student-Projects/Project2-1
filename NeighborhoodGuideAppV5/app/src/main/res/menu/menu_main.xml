@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nicolassaad.neighborhoodguideapp.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/beericon"
+        app:showAsAction="ifRoom" />
+    <item
+        android:title="Favorites"
+        android:id="@+id/fav_action_star"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="ifRoom"
+        android:visible="false"/>
+
+</menu>
